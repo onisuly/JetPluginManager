@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "com.illuminatedcloud.intellij",
+    "Name": "Illuminated Cloud",
+    "JarFileName": "IlluminatedCloud.jar",
+    "ClassName": "LicenseValidator",
+    "ClassCheckSum": "d107d026b681a6939f6bfcf8ab521f2e8ee57f37d039fc8a0733c5a39c2d145b",
+    "isInstalled": false,
+    "isEnabled": false
+  },
+  {
+    "Id": "com.jedide.apex",
+    "Name": "JetForcer",
+    "JarFileName": "JetForcer-plugin.jar",
+    "ClassName": "LicenseManager",
+    "ClassCheckSum": "0c165c2172b81b66f11237c2799d26850020275a30135ed41f8a9c2774bfc927",
+    "isInstalled": false,
+    "isEnabled": false
+  },
+  {
+    "Id": "com.vladsch.idea.multimarkdown",
+    "Name": "Markdown Navigator",
+    "JarFileName": "idea-multimarkdown.jar",
+    "ClassName": "LicenseAgent",
+    "ClassCheckSum": "6261f6b5d9b1d5d8351896bc232e43e2490e323b9fe1e3e6be9be1a948165b69",
+    "isInstalled": false,
+    "isEnabled": false
+  }
+]
