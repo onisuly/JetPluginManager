@@ -14,8 +14,8 @@
     "Name": "JetForcer",
     "JarFileName": "JetForcer-plugin.jar",
     "ClassName": "LicenseManager",
-    "ClassSize": 3096,
-    "ClassCheckSum": "0c165c2172b81b66f11237c2799d26850020275a30135ed41f8a9c2774bfc927",
+    "ClassSize": 2992,
+    "ClassCheckSum": "0cdcac56839458126afaaa14b2e680450ab681963a1fc32773e332bc632274d1",
     "isInstalled": false,
     "isEnabled": false
   },
