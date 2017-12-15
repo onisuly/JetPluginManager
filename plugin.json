@@ -4,8 +4,18 @@
     "Name": "Illuminated Cloud",
     "JarFileName": "IlluminatedCloud.jar",
     "ClassName": "LicenseValidator",
-    "ClassSize": 469,
-    "ClassCheckSum": "d107d026b681a6939f6bfcf8ab521f2e8ee57f37d039fc8a0733c5a39c2d145b",
+    "ClassSize": 2554,
+    "ClassCheckSum": "8fb2bb8793642819a32aa5fbec3c149fd4b774eeb959b8dc09cccd40604943bb",
+    "isInstalled": false,
+    "isEnabled": false
+  },
+  {
+    "Id": "com.illuminatedcloud2.intellij",
+    "Name": "Illuminated Cloud2",
+    "JarFileName": "IlluminatedCloud.jar",
+    "ClassName": "LicenseValidator",
+    "ClassSize": 2554,
+    "ClassCheckSum": "8fb2bb8793642819a32aa5fbec3c149fd4b774eeb959b8dc09cccd40604943bb",
     "isInstalled": false,
     "isEnabled": false
   },
